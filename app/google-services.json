@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656963905837",
+    "project_id": "webapi-bf940",
+    "storage_bucket": "webapi-bf940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656963905837:android:fb8059a697903131e08ba4",
+        "android_client_info": {
+          "package_name": "com.f55119001.webapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656963905837-l4ootk7f4outv1kd0tec71djne1fhegs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI7X4wMpDKiMv39GJ_nBMP3iJZz3LajsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656963905837-l4ootk7f4outv1kd0tec71djne1fhegs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
